@@ -1,6 +1,8 @@
 # WallpaperFree (Live)
 
-<img width="544" height="976" alt="Screenshot 2025-12-25 at 21 52 36" src="https://github.com/user-attachments/assets/1b69d0e0-0dd2-4fb1-829d-6059ca37851f" />
+<p align="center">
+  <img width="544" height="976" alt="Screenshot 2025-12-25 at 21 52 36" src="https://github.com/user-attachments/assets/1b69d0e0-0dd2-4fb1-829d-6059ca37851f" />
+</p>
 
 A native macOS application that lets you set video files as animated desktop wallpapers on one or multiple monitors.
 
